@@ -24,6 +24,7 @@ public class QuickMenu : ModuleRules
 				"Projects",
 				"Slate",
 				"SlateCore",
+				"SlateScriptingCommands", 
 				"ToolMenus",
 				"ToolWidgets", 
 				"UndoHistoryEditor",
